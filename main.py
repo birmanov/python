@@ -5,3 +5,4 @@ c = 105
 print(bin(c))
 print(hex(c))
 print(oct(c))
+print(type(b))
