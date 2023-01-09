@@ -5,6 +5,3 @@ int = 0
 
 while target:
     print(target.pop(0))
-test
-
-dgfds
