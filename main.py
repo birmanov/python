@@ -1,7 +1,10 @@
-target = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-target_string = "Python: Hello, world"
+#target = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+#target_string = "Python: Hello, world"
 
-int = 0
+#int = 0
 
-while target:
-    print(target.pop(0))
+#while target:
+#    print(target.pop(0))
+
+list1 = [[1, 2], 3]
+list2 = [[1, 2], 3]
