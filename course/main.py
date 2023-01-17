@@ -1,1 +1,4 @@
-print(dir(__builtins__))
+name = [1, 5]
+
+
+print(name)
