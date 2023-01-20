@@ -1,9 +1,11 @@
-my_commet = "text Text text"
+average_price = 28.75
+price = int(average_price)
 
-print(len(my_commet))
+print(price)
+print(type(price))
 
-print(my_commet.replace('Text', 'line'))
+str_temperature = '14.5'
+temperature = float(str_temperature)
 
-print(my_commet.count('t'))
-
-print(my_commet[1:13])
+print(temperature)
+print(type(temperature))
