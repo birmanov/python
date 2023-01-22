@@ -1,3 +1,4 @@
-db_is_available = False
-print(db_is_available)
-print(type(db_is_available))
+name = [1, 5]
+
+
+print(name)
