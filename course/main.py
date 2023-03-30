@@ -1,5 +1,2 @@
-print(bool(10))
-print(bool('abc'))
-print(bool([]))
-print(bool([1, 2]))
-print(bool(None))
+print(bool)
+print(dir(bool))
