@@ -1,16 +1,26 @@
-user_inputs = [True, 'Hi!', ':-)', 10.5]
-my_frunt = ['apple', 'banana', 'lime']
-my_cunt = ['125', '456', '1645']
-my_gfsg = [True, 'hi!', '222,565']
+# 1
+my_list = ['25', 'privet', '!@#$', '253,254', True]
+# print(my_list)
 
-print(my_frunt)
+# 2
+my_list.pop(2)
+print(my_list)
 
-print(my_cunt)
+# 3
+print(len(my_list))
 
-my_cunt[2] = 999
+# 4
+my_list.reverse()
+print(my_list)
 
-print(my_cunt)
+# 5
+my_list2 = my_list.copy()
+my_list2.append(35)
+my_list2.append(9999)
+print(my_list2)
 
-del my_gfsg[2]
+# 6
+my_list.extend(my_list2)
+print(my_list)
 
-print(my_gfsg)
+# 7
